@@ -3,8 +3,7 @@ Title: Ceres
 Description: In Ceres you play as a spaceship fighting a series of enemies. On either side of the player is a continuous flow of asteroids. Both enemies and asteroids need to be avoided with the objective being to survive and defeat as many enemies as possible.
 
 #How-to-Play
-
-Controls: You can move the ship left and right using the A and D keys respectively, the SPACE key can be used to fire a laser.
+  Controls: You can move the ship left and right using the A and D keys respectively, the SPACE key can be used to fire a laser.
 Gameplay: You get a point for killing an enemy. Once an enemy dies a new enemy spawns with a randomized fire rate and speed (So be careful and always aware).
 
 #Features
